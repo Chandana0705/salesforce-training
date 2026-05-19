@@ -125,3 +125,6 @@ User → Opens App → Uses Tabs → Accesses Objects → Performs Actions
 # Conclusion
 
 Salesforce Platform helps in creating applications easily using apps, objects, and tabs. It supports both configuration and coding methods to build business solutions.
+# Screenshots
+
+![Day 2 Screenshot](day2.png)
