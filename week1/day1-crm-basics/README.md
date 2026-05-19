@@ -92,3 +92,6 @@ It helps track:
 Example Flow:
 
 Student shows interest → Admission inquiry created → Student joins college
+# Screenshots
+
+![Trailhead Screenshot](Day1.png)
