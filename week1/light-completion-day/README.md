@@ -29,11 +29,4 @@ I still have a doubt about how subscribe events work internally and how the syst
 
 # Trailhead Progress Screenshot
 
-_Add your screenshot here_
-
-```text
-Example:
 ![Trailhead Progress](screenshot.png)
-```
-
----
